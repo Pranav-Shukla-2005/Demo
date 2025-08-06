@@ -1,4 +1,5 @@
 # Demo
 this is my first repo
 <br>
-Author- Pranav Shukla
+Author- my name is Pranav Shukla
+
